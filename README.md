@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mandar Kulkarni</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;AI+%26+ML+Enthusiast;Data Analyst;Building+Real-World+Projects;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;AI+%26+ML+Enthusiast;Building+Real-World+Projects;Always+Learning+🚀" />
 </p>
 
 <h3 align="center">🚀 Passionate Developer from India 🇮🇳</h3>
