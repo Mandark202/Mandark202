@@ -1,92 +1,18 @@
-<h1 align="center">Hi 👋, I'm Mandar Kulkarni</h1>
+# 💫 About Me:
+🔭 I'm currently working on:<br>AI-Powered Projects, Full-Stack Web Applications, and Hackathon Solutions<br><br>👯 I'm looking to collaborate on:<br>Open Source, AI/ML Projects, and Innovative Startup Ideas<br><br>🤝 I'm looking for help with:<br>Advanced AI, Deep Learning, and Cloud Deployment<br><br>🌱 I'm currently learning:<br>Machine Learning, Generative AI, Data Science, and Full-Stack Development<br><br>💬 Ask me about:<br>Python, AI/ML, Web Development, Data Science, and Hackathons<br><br>⚡ Fun fact:<br>I love turning ideas into real-world projects and building solutions that make an impact.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;AI+%26+ML+Enthusiast;Building+Real-World+Projects;Always+Learning+🚀" />
-</p>
 
-<h3 align="center">🚀 Passionate Developer from India 🇮🇳</h3>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mandar Kulkarni) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mandar-kulkarni-8b435132a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kulkarnimandar0338@gmail.com) 
 
----
-
-## 🏆 GitHub Profile Badges
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/kulkarnimandar0338-pixel?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/kulkarnimandar0338-pixel?label=Stars&style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=kulkarnimandar0338-pixel&label=Profile+Views&style=for-the-badge&color=blue" />
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Mandark202&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Mandark202&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mandark202&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Mandark202&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 About Me
-- 🔭 Working on **CoastalEye AI 🌊**
-- 🌱 Learning **Gen-AI & Machine Learning**
-- 👯 Collaborating on **Hostel Hub**
-- 🤝 Building **AstraGuard Defence System**
-- 💬 Ask me about **Frontend | Backend | AI**
-- 📫 Email: **kulkarnimandar0338@gmail.com**
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/mandar-kulkarni-75104a3a0">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://fb.com/mandar kulkarni">
-    <img src="https://skillicons.dev/icons?i=facebook" />
-  </a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js" /><br>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,ts" /><br>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,mongodb,mysql" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🌊 CoastalEye AI
-🔗 https://github.com/kulkarnimandar0338-pixel/CoastalEye-AI---Coastal-Threat-Alert-System-
-
-### 🏠 Hostel Hub
-🔗 https://github.com/kulkarnimandar0338-pixel/Hostel-Hub-
-
-### 🛡️ AstraGuard
-🔗 https://github.com/kulkarnimandar0338-pixel/Defence-sysytem
-
----
-
-## 📊 GitHub Stats (Auto Theme)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kulkarnimandar0338-pixel&show_icons=true&theme=tokyonight#gh-dark-mode-only" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kulkarnimandar0338-pixel&theme=tokyonight#gh-dark-mode-only" />
-</p>
-
----
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kulkarnimandar0338-pixel&theme=github-compact" />
-</p>
-
----
-
-
-## 💡 Quote
-> “First, solve the problem. Then, write the code.”
-
----
-
-<p align="center">🔥 Let's build something amazing together!</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
