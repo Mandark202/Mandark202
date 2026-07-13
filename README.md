@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hello! I'm **Mandar Kulkarni**  
-🎓 2th Year Computer Science Engineering in Artifical intellegence Student  
+🎓 3rd Year Computer Science Engineering in Artifical intellegence Student  
 📍 Nutan Maharashtra institute if engineering and technolgy   
 💻 **Fullstack Developer & Data Analyst**  
 Passionate about crafting intuitive and high-impact digital experiences. My focus lies in building seamless, scalable, and efficient applications with a strong emphasis on clean UI/UX. Always curious and driven to learn new technologies and frameworks.
